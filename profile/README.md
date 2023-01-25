@@ -1,4 +1,4 @@
-# .github
+# Final URLs
 
 * https://mia-mms-2223.github.io/team01/
 * https://mia-mms-2223.github.io/team02/
